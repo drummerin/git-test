@@ -3,6 +3,4 @@
 
 neuer absatz hier
 
-ein link [link](http://url)
-
-fast gesamte html funktíonen, nur andere syntax (markdown language)
+have fun
